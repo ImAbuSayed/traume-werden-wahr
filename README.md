@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/traume-werden-wahr/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Träume werden wahr](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traume-werden-wahr/) |
+| **Get License** | [Get License For Träume werden wahr](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/traume-werden-wahr/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig ein in den Benz, wir jagen durch die leeren Straßen
+> Dein Blick ist wie Feuer, Baby, ich kann's nicht fassen
+> Wir beide im V.I.P., baden uns im Neonlicht
+> Träume werden wahr, wenn dein Körper zu mir spricht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
